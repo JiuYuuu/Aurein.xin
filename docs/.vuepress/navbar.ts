@@ -23,6 +23,9 @@ export default defineNavbarConfig([
     items:[
       { 
         text: '阅读记录', link: '/notes/read/README.md'
+      },
+      {
+        text: '生活', link: '/notes/daily/README.md'
       }
     ]
   },
