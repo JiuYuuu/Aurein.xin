@@ -22,7 +22,7 @@ export default defineUserConfig({
 
   head: [
     // 配置站点图标
-    ['link', { rel: 'icon', type: 'image/jpeg', href: 'https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/blob/main/head.jpeg' }],
+    ['link', { rel: 'icon', type: 'image/jpeg', href: '/images/icon1.jpg' }],
   ],
 
   bundler: viteBundler(),
