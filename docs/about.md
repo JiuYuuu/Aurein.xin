@@ -9,7 +9,7 @@ config:
         type: image-text
         title: About
         description: 你好，我是旧雨， 欢迎来到我的 Blog。
-        image:
+        image: https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/head.jpeg
         list:
         -
             title: 爱好：

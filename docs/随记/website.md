@@ -86,7 +86,7 @@ permalink: /article/hc71u2i5/
 
   - 在刚刚选定的目录中，右键空白处选择在终端中打开
 
-    <img src="D:\website\blog\Blog-Images\Blog-images\Blog-web\Snipaste_2025-06-25_00-53-57.png" style="zoom: 33%;" />
+    <img src="https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/Blog-web/Snipaste_2025-06-25_00-53-57.png" style="zoom: 33%;" />
   - 运行主题提供的 命令行工具，帮助您构建一个基本项目。使用以下命令， 启动 安装向导
 
   ```bash
@@ -182,9 +182,9 @@ permalink: /article/hc71u2i5/
 
 1. 进入已购买的服务器配置页（以华为云为例） 首先点击重置密码，输入新的密码。之后使用 CloudShell 远程登陆
 
-![](D:\website\blog\Blog-Images\Blog-images\Blog-web\Snipaste_2025-06-25_00-07-05.png)
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/Blog-web/Snipaste_2025-06-25_00-07-05.png)
 
-![](D:\website\blog\Blog-Images\Blog-images\Blog-web\Snipaste_2025-06-25_00-09-16.png)
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/Blog-web/Snipaste_2025-06-25_00-09-16.png)
 
 2. 安装基本前置软件
 
@@ -253,7 +253,7 @@ Congratulations! Installed successfully!
 
 前往服务器安全组去放行宝塔给出的的端口，顺便可以用一键放通常用端口
 
-![](D:\website\blog\Blog-Images\Blog-images\Blog-web\Snipaste_2025-06-27_17-44-20.png)
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/Blog-web/Snipaste_2025-06-27_17-44-20.png)
 
 之后打开宝塔外网面板地址，输入宝塔账号密码登入
 
@@ -267,13 +267,13 @@ Congratulations! Installed successfully!
 
 前往你所购买的域名商中，添加域名的解析,这里我使用的是阿里云的域名
 
-![](D:\website\blog\Blog-Images\Blog-images\Blog-web\Snipaste_2025-07-13_19-46-10.png)
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/Blog-web/Snipaste_2025-07-13_19-46-10.png)
 
 ## 六. 备案
 
 当你输入你的域名会发现当前网站不可访问
 
-![](D:\website\blog\Blog-Images\Blog-images\Blog-web\Snipaste_2025-07-13_19-52-57.png)
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/Blog-web/Snipaste_2025-07-13_19-52-57.png)
 
 然后前往云服务器供应商按照给出的指引备案即可，可能需要15天左右
 
@@ -303,18 +303,18 @@ GitHub Pages 相关的限制在这[GitHub Pages limits ](https://docs.github.com
 
 3. 克隆项目至本地
 
-![](D:\website\blog\Blog-Images\Blog-images\Blog-web\Snipaste_2025-07-13_20-02-18.png)
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/Blog-web/Snipaste_2025-07-13_20-02-18.png)
 
 4. 上传Page
 
 将你项目生成的 dist 文件放到此路径下，添加描述后，点击 commit ，之后点击右上 Pull orign同步到 GitHub 。
 
-![](D:\website\blog\Blog-Images\Blog-images\Blog-web\Snipaste_2025-07-13_20-07-47.png)
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/Blog-web/Snipaste_2025-07-13_20-07-47.png)
 
-![](D:\website\blog\Blog-Images\Blog-images\Blog-web\Snipaste_2025-07-13_20-07-59.png)
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/Blog-web/Snipaste_2025-07-13_20-07-59.png)
 
 5. 设置 GitHub
 
    按照图中的顺序点击，最后点 Visit site 即可访问页面
 
-![](D:\website\blog\Blog-Images\Blog-images\Blog-web\Snipaste_2025-09-16_23-51-25.png)
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/Blog-web/Snipaste_2025-09-16_23-51-25.png)
