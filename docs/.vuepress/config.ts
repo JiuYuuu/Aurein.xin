@@ -115,7 +115,8 @@ export default defineUserConfig({
       * markdown
       * @see https://theme-plume.vuejs.press/config/markdown/
       */
-    // markdown: {
+    markdown: {
+        timeline: true
     //   abbr: true,         // 启用 abbr 语法  *[label]: content
     //   annotation: true,   // 启用 annotation 语法  [+label]: content
     //   pdf: true,          // 启用 PDF 嵌入 @[pdf](/xxx.pdf)
@@ -153,7 +154,7 @@ export default defineUserConfig({
     //   },
     //   include: true,      // 在 Markdown 文件中导入其他 markdown 文件内容
     //   imageSize: 'local', // 启用 自动填充 图片宽高属性，避免页面抖动
-    // },
+    },
 
     /**
      * 水印
