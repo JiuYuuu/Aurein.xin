@@ -11,6 +11,13 @@ export default defineNoteConfig({
       items: [
         '202509.md',
       ]
+    },
+    {
+      text: '树洞',
+      prefix: '树洞/',
+      items: [
+        'BlueMood.md'
+      ]
     }
   ]
 })
