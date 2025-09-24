@@ -31,6 +31,6 @@ export default defineNavbarConfig([
   },
   {
     text: '笔记',
-    items: [{ text: '示例', link: '/notes/demo/README.md' }]
+    items: [{ text: 'CS61B', link: '/notes/CS61B/README.md' }]
   },
 ])
