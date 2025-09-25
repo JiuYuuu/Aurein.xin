@@ -27,7 +27,7 @@ $ git remote add skeleton https://github.com/Berkeley-CS61B/skeleton-sp21.git
 
 # 注册 Gradescope
 来到网址[Gradescope](http://gradescope.com/) 注册账号  
-注册账号时，填写学习时，请写 `UC Berkeley`
+注册账号时，填写学校时，请写 `UC Berkeley`
 课程代码为 `MB7ZPY` 按要求来即可完成注册
 # 完成练习 提交代码
 ::: warning 特别注意，请不要在 IDEA 中直接把整个框架代码当作一个项目打开！！如要做 lab1 ，请单独把他作为一个项目打开。
