@@ -10,12 +10,13 @@ permalink: /CS61B/week0/
 
 ::: warning 不要尝试配置官方文档内 SSH 的相关内容，好多人弄了很久都没配出来，建议直接跳过
 :::
-# 安装 IDEA
+# A. 安装 IDEA
 首先去 [JetBrains](https://www.jetbrains.com/idea/download/) 安装 IDEA
 安装完毕后，在 `Plugins` 中安装 `Java Visualizer`
 
-# Clone 框架代码
+# B. Clone 框架代码
 可以使用 GitHubDesktop 直接 clone 到本地
+#### a. 获取代码框架
 这个是 sp21 的题
 ```shell
 $ git remote add skeleton https://github.com/Berkeley-CS61B/skeleton-sp21.git
@@ -25,7 +26,7 @@ $ git remote add skeleton https://github.com/Berkeley-CS61B/skeleton-sp21.git
 $ git remote add skeleton https://github.com/Berkeley-CS61B/skeleton-sp25.git
 ```
 由于 sp25 并没自动评分系统，我们可以勉强用内置的 test 的系统，接下来将教学如何使用
-#### 配置 IDEA
+#### b. 配置 IDEA
 首先我们还需要再 clone library-sp25
 以下是地址：
 ```shell
@@ -37,15 +38,15 @@ $ git remote add skeleton https://github.com/Berkeley-CS61B/skeleton-sp25.git
 导入完成后，即可发现自动评分模块可以使用了
 
 
-# 安装 JDK
+# C. 安装 JDK
 安装课程要求的 JDK17
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/CS61B/week0/IDEA.png)
 
-# 注册 Gradescope
+# D. 注册 Gradescope
 来到网址[Gradescope](http://gradescope.com/) 注册账号  
 注册账号时，填写学校时，请写 `UC Berkeley`
 课程代码为 `MB7ZPY` 按要求来即可完成注册
-# 完成练习 提交代码
+# E. 完成练习 提交代码
 ::: warning 特别注意，请不要在 IDEA 中直接把整个框架代码当作一个项目打开！！如要做 lab1 ，请单独把他作为一个项目打开。
 :::
 
