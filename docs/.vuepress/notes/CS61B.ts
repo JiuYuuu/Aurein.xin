@@ -13,6 +13,12 @@ export default defineNoteConfig({
         'week1.md'
       ]
     },
-    
+    {
+      text: 'HW 的解决方案与思考',
+      prefix: 'HW/',
+      items: [
+        'HW0a.md'
+      ]
+    }
   ]
 })
