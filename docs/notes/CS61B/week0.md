@@ -3,7 +3,7 @@ title: 课程环境的搭建
 createTime: 2025/09/24 17:14:27
 permalink: /CS61B/week0/
 ---
-> 本篇记录 CS61B 课程环境的搭建，旨在帮助友人快速上手本门课程，面向的是有一定开发经验的程序员。因为官方文档内有相当一部分是只有校内的人才可以弄，看起来眼花缭乱，所以这也算一个精简配环境的教程
+> 本篇记录 CS61B 课程环境的搭建，旨在帮助友人快速上手本门课程，面向的是有一定开发经验的程序员。因为官方文档内有相当一部分是只有校内的人才可以弄，看起来眼花缭乱，所以有了这一个精简配环境的教程
 
 [61B lab1配置环境](https://sp21.datastructur.es/materials/lab/lab1setup/lab1setup)  
 先贴一个官网。
@@ -35,7 +35,8 @@ $ git remote add skeleton https://github.com/Berkeley-CS61B/skeleton-sp25.git
 完成后，打开 IDEA ，并且单独打开其中一个项目，准备导入 library  
 按照图中的步骤来：  
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/CS61B/week0/lab01-1.png)
-导入完成后，即可发现自动评分模块可以使用了
+导入完成后，即可发现自动评分模块可以使用了. 
+但是有一点需要注意，每当你打开一个新的作业项目，都**需要重新再导入**一次 library。
 
 
 # C. 安装 JDK

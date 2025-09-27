@@ -2,6 +2,7 @@ import { defineNotesConfig } from 'vuepress-theme-plume'
 import read from './read'
 import daily from './daily'
 import CS61B from './CS61B'
+import TV from './TV'
 
 export default defineNotesConfig({
     dir: 'notes',
@@ -10,5 +11,6 @@ export default defineNotesConfig({
         read,
         daily,
         CS61B,
+        TV
     ]
 })

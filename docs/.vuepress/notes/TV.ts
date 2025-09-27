@@ -1,24 +1,22 @@
 import { defineNoteConfig } from 'vuepress-theme-plume'
 
 export default defineNoteConfig({
-  dir: 'CS61B',
-  link: '/CS61B/',
+  dir: 'TV',
+  link: '/TV/',
   sidebar: [
     'README.md',
     {
-      text: '课程笔记',
+      text: '电影',
       prefix: '', 
       items: [
-        'week0.md',
-        'week1.md'
+        'hana.md'
       ]
     },
     {
-      text: 'HW 的解决方案与思考',
-      prefix: 'HW/',
+      text: '电视剧',
+      prefix: '',
       items: [
-        'HW0a.md',
-        'HW0b.md'
+        ''
       ]
     }
   ]

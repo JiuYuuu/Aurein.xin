@@ -26,6 +26,9 @@ export default defineNavbarConfig([
       },
       {
         text: '生活', link: '/notes/daily/README.md'
+      },
+      {
+        text: 'TV', link: '/notes/TV/README.md'
       }
     ]
   },

@@ -186,5 +186,65 @@ List 有以下关键词：
 - 查询慢: 根据索引访问元素效率低，需要从头或尾开始遍历
 使用场景: 写多读少的场景。当你需要频繁地在列表的开头、结尾或中间进行插入和删除操作时，LinkedList 的性能优势会非常明显
 
-# Abstract Data Types vs. Concrete Implementations
+List 泛型
+Java 中，`<>` 表示 **泛型（Generic）**，用来指定集合中存储的数据类型
+举例说明：
+```java
+// 没有泛型（旧写法，不推荐）
+List s = new ArrayList(); 
+s.add("hello");
+s.add(123); // ✅ 竟然也能加数字
+String str = (String) s.get(0); // ❌ 必须强制类型转换
+```
+如何解决？：
+```java
+List<String> s = new ArrayList<>(); // 只能放 String
+s.add("hello");
+s.add("world");
+// s.add(123); // ❌ 报错，因为只能存 String
+String str = s.get(0); // 不需要强制转换
+```
+- 限制了数据类型
+
+#  Array
+
+### 数组的创建
+```java
+int[] arr = new int[5]; 
+// 创建一个长度为 5 的 int 数组，默认值都是 0
+```
+数组的**特点**
+- 数组的大小创建后就无法改变
+- No methods
+
+### foreach
+
+Java 中专门用来 **简化数组或集合的遍历**
+1. 我们使用普通的 for 循环遍历时：
+```java
+int[] num = {10,20,30,40};
+
+for (int i = 0; i < numbers.length; i++) {
+    System.out.println(numbers[i]);
+}
+```
+2. 这种写法需要手动声明索引`i` ，还需要自己手动处理边界条件；所以引出`foreach` 用法：
+```java
+for (元素类型 变量名 : 数组或集合) {
+    // 在循环中直接使用变量名
+}
+// 对于上面的数组，我们可以：
+for (int num : numbers) {
+    System.out.println(num);
+}
+```
+二者输出结果是**相同**的
+
+# Maps
+
+用来存储 **键值对**
+- `Map`是一个接口
+- `key`是唯一的，不可重复
+- `value` 是可以重复的
+- 最常见的实现类是 `HashMap`
 
