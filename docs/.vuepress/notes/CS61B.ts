@@ -18,7 +18,8 @@ export default defineNoteConfig({
       prefix: 'HW/',
       items: [
         'HW0a.md',
-        'HW0b.md'
+        'HW0b.md',
+        'temp.md'
       ]
     }
   ]

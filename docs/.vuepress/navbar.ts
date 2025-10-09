@@ -29,6 +29,9 @@ export default defineNavbarConfig([
       },
       {
         text: 'TV', link: '/notes/TV/README.md'
+      },
+      {
+        text: 'Games', link: 'notes/Games/README.md'
       }
     ]
   },
