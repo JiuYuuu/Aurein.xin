@@ -8,7 +8,7 @@ export default defineNoteConfig({
   
     {
       text: '生涯',
-      prefix: '/', 
+      prefix: '', 
       items: [
         '2025news.md'
       ]
