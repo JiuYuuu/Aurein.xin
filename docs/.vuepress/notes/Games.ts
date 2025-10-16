@@ -7,10 +7,10 @@ export default defineNoteConfig({
     'README.md',
   
     {
-      text: '通关感受',
+      text: '生涯',
       prefix: '/', 
       items: [
-        
+        '2025news.md'
       ]
     },
   ]
