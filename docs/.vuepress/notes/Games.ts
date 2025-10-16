@@ -7,10 +7,11 @@ export default defineNoteConfig({
     'README.md',
   
     {
-      text: '生涯',
+      text: '2025 Steam 新品节评测',
       prefix: '', 
       items: [
-        '2025news.md'
+        '2025news.md',
+        'zui_jiu.md'
       ]
     },
   ]
