@@ -1,5 +1,5 @@
 ---
-title: BlueMood
+title: 实验性功能试验田
 password: badmood
 passwordHint: 别看了，都是些奇怪的东西
 createTime: 2025/09/21 00:11:42
