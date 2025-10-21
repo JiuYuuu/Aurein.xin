@@ -1,10 +1,10 @@
 ---
 title: 《醉风酒》4/10分
 createTime: 2025/10/16 23:37:14
-permalink: /Games/gytb1e0u/
+permalink: /Games/zuifengjiu/
 ---
 > 本篇带有强烈的个人情绪，请酌情阅读
-
+> 在优化好前不推荐游玩
 # 华丽皮囊下的灾难性体验
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/Games/2025news/zui_title.jpeg)
 《醉风酒》的试玩版为我们描绘了一幅极具吸引力的视觉画卷，其独特的艺术风格无疑是其最引人注目的名片。然而，在这层华丽的皮囊之下，隐藏的却是一次灾难性的新手体验与一套混乱的核心玩法框架。在三四十分钟的体验后，它所呈现出的并非乐趣，而是一种由引导缺失和设计失衡所带来的巨大挫败感。
