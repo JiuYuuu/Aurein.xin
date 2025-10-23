@@ -1,7 +1,7 @@
 ---
 title: HW0a
 createTime: 2025/09/26 20:23:50
-permalink: /CS61B/ngeo9u0i/
+permalink: /CS61B/hw0a/
 ---
 > 题目来源于 sp25 的 HW
 
