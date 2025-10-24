@@ -19,7 +19,8 @@ export default defineNoteConfig({
       items: [
         'HW0a.md',
         'HW0b.md',
-        'temp.md'
+        'tmp.md',
+        'tmp2.md'
       ]
     }
   ]
