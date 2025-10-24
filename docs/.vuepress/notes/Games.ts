@@ -5,7 +5,13 @@ export default defineNoteConfig({
   link: '/Games/',
   sidebar: [
     'README.md',
-  
+    {
+      text: 'Minecraft 相关',
+      prefix: 'MC/',
+      items: [
+        'mclogs.md'
+      ]
+    },
     {
       text: '2025 Steam 新品节评测',
       prefix: '', 
@@ -14,5 +20,6 @@ export default defineNoteConfig({
         'zui_jiu.md'
       ]
     },
+  
   ]
 })
