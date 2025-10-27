@@ -3,10 +3,6 @@ title: HW0b
 createTime: 2025/09/27 17:21:58
 permalink: /CS61B/hwob/
 ---
-：：：warning 
-这是一篇未完成文章
-：：：
-
 # JavaExercises
 
 ## 简单数组训练
@@ -163,3 +159,63 @@ public static int countOccurrencesOfC(List<String> words, char c) {
 }
 ```
 还可以使用charAt进行查找　　　　
+
+# MapExercise
+
+## 任务一 字母数字映射表
+
+Returns a map from every lower case letter to the number corresponding to that letter, where 'a' is  
+1, 'b' is 2, 'c' is 3, ..., 'z' is 26.
+
+```java
+public static Map<Character, Integer> letterToNum() {  
+    // TODO: Fill in this function.  
+    Map<Character, Integer> letterToNum = new HashMap<>();  
+    int num = 1;  
+    for (char letter = 'a'; letter <= 'z'; letter++) {  
+        letterToNum.put(letter, num);  
+        num++;  
+    }  
+      
+    return letterToNum;  
+}
+```
+
+采用了 for 循环对 char 进行连续赋值
+
+## 任务二 返回平方
+
+Returns a map from the integers in the list to their squares. For example, if the input list  
+is \[1, 3, 6, 7], the returned map goes from 1 to 1, 3 to 9, 6 to 36, and 7 to 49.
+
+```java
+public static Map<Integer, Integer> squares(List<Integer> nums) {  
+    // TODO: Fill in this function.  
+    Map<Integer, Integer> squares = new HashMap<>();  
+    for (Integer num1 : nums) {  
+        squares.put(num1, num1 * num1);  
+    }  
+  
+    return squares;  
+}
+```
+
+## 任务三 返回字母出现次数
+
+Returns a map of the counts of all words that appear in a list of words.
+
+```java
+public static Map<String, Integer> countWords(List<String> words) {  
+    // TODO: Fill in this function.  
+    Map<String, Integer> wordCount = new HashMap<>();  
+    for (String word : words) {  
+        if (wordCount.containsKey(word)) {  
+            wordCount.put(word, wordCount.get(word) + 1);  
+        } else {  
+            wordCount.put(word, 1);  
+        }  
+    }  
+  
+    return wordCount;  
+}
+```
