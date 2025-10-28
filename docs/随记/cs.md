@@ -79,10 +79,10 @@ GitHub 作为全球最大的同性社交网站，同样也是一名程序员必�
 来到[这个网站](https://github.com/)，点击右上角 `Sign up`
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/CS/github.png)
 注册完成后，来到这个页面：
-![]()
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/CS/git.png)
 (不是这啥啊我咋看不懂)
 点击 Top repositories 一旁的绿色按钮 New 就可以创建新的仓库了（repositories）
-![]()
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/CS/gitr.png)
 填写基本信息，之后你的代码就可以上传到这个仓库了
 
 #### 如何安装 Git ？
@@ -93,7 +93,7 @@ GitHub 作为全球最大的同性社交网站，同样也是一名程序员必�
 作为一名萌新，面对全是命令行的内容难免会感到无从下手，复杂的 git 命令完全不会敲，文件完全找不到怎么办啊
 那么我将向你推荐一个 GUI 旷世神作———— [GitHub DESKTOP](https://desktop.github.com/download/)
 通过这个软件，你可以一键 commit 一键 push 到 GitHub，操作简单，十分容易上手，纯 GUI 的操作界面完全适合刚入门的萌新使用。等熟悉了 Git 的基本流程后，再去学习相关的命令行会轻松不少
-![]()
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/CS/gitdes.png)
 
 
 # IDE（集成开发环境）
@@ -106,7 +106,7 @@ GitHub 作为全球最大的同性社交网站，同样也是一名程序员必�
 - 内置优秀的开发工具
 - 丰富的插件社区
 等等
-![]()
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/CS/jet.png)
 看到上面的软件了吗，想写啥就选啥，环境也不用你配啥都不用干，开箱即用
 下载地址：[JetBrains](https://www.jetbrains.com/)
 
@@ -132,6 +132,8 @@ GitHub 作为全球最大的同性社交网站，同样也是一名程序员必�
 
 这里推荐一个翻译的插件 Trancy ， 你可以在各大浏览器的拓展里下载到
 
+# 命令行
+明天再写，累了
 # 咋做笔记？
 做好笔记也是你学习路程中不可缺少的一部分
 
