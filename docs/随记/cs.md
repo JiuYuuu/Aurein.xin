@@ -74,4 +74,72 @@ GitHub 作为全球最大的同性社交网站，同样也是一名程序员必�
 ## 你的日常工作流
 在**本地电脑**上用 Git 来**管理版本**，然后把你的代码**推送**到 GitHub 网站上进行备份和团队协作
 
-接下来，将介绍两个工具的**具体用法：**
+接下来，将介绍 GitHub **具体用法：**
+#### 如何使用 GitHub
+来到[这个网站](https://github.com/)，点击右上角 `Sign up`
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/CS/github.png)
+注册完成后，来到这个页面：
+![]()
+(不是这啥啊我咋看不懂)
+点击 Top repositories 一旁的绿色按钮 New 就可以创建新的仓库了（repositories）
+![]()
+填写基本信息，之后你的代码就可以上传到这个仓库了
+
+#### 如何安装 Git ？
+点击下方链接快速学习：
+[Git 的安装教程（详解每个步骤）](https://blog.csdn.net/Passerby_Wang/article/details/120767020?ops_request_misc=%7B%22request%5Fid%22%3A%22169673342216800182730025%22%2C%22scm%22%3A%2220140713.130102334..%22%7D&request_id=169673342216800182730025&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-4-120767020-null-null.142%5Ev95%5EchatgptT3_1&utm_term=%E5%AE%89%E8%A3%85git&spm=1018.2226.3001.4187)
+
+#### 我咋用它们啊？
+作为一名萌新，面对全是命令行的内容难免会感到无从下手，复杂的 git 命令完全不会敲，文件完全找不到怎么办啊
+那么我将向你推荐一个 GUI 旷世神作———— [GitHub DESKTOP](https://desktop.github.com/download/)
+通过这个软件，你可以一键 commit 一键 push 到 GitHub，操作简单，十分容易上手，纯 GUI 的操作界面完全适合刚入门的萌新使用。等熟悉了 Git 的基本流程后，再去学习相关的命令行会轻松不少
+![]()
+
+
+# IDE（集成开发环境）
+> 我想写 c、cpp、python、java！！我用什么软件写好啊？
+
+那我们就不得不提大名鼎鼎的 JetBrains 公司了
+相较于 VSCode ，私认为，这种 IDE 最适合萌新进行使用，因为：
+- 智能代码补全
+- 简易的环境配置
+- 内置优秀的开发工具
+- 丰富的插件社区
+等等
+![]()
+看到上面的软件了吗，想写啥就选啥，环境也不用你配啥都不用干，开箱即用
+下载地址：[JetBrains](https://www.jetbrains.com/)
+
+#### 教育优惠的申请
+> 不是啊佬，这只能试用咋办啊，花钱订阅吗，用破解吗？
+
+那我们就不得不提一个东西了，教育优惠，你申请完这个 pack 后，JetBrains家绝大部分东西你都能免费用了
+以下是焚诀教程：
+[高校学生免费使用jetbrains产品指南（保姆级教程）](https://blog.csdn.net/m0_63451989/article/details/131743070)
+
+# 编程教程
+> 我想去学语言，我该去哪学呢？
+
+首先是第一个网站
+- [菜鸟教程](https://www.runoob.com/)
+    这个网站涵盖了绝大部分主流语言的基础教程，你可以通过其中的教程稍微熟悉一下你要学的语言
+- [CS自学指南](https://csdiy.wiki/)
+    只能说是我的白月光，入坑公开课的源头
+- 官方文档
+    想要深入去学习一门语言，学会看官方文档是必不可少的。
+
+> 你推荐的课程都是英文的，我看不懂咋整啊？
+
+这里推荐一个翻译的插件 Trancy ， 你可以在各大浏览器的拓展里下载到
+
+# 咋做笔记？
+做好笔记也是你学习路程中不可缺少的一部分
+
+#### Markdown
+Markdown 是一门十分易上手的标记语言
+你在这个网站上看见的所有文章都是由 Markdown 语言编写的。为什么要先介绍这门语言呢，因为 目前主流的笔记软件都是使用 Markdown 语言的，如 Notion、Obsidian 等等
+在这个网站，你可以了解到这门语言的基本用法[Markdownwn基本语法](https://markdown.com.cn/basic-syntax/)，里面还有在线编译器，可以上手简单试一试
+
+#### Obsidian
+我是 Obsidian 的忠实拥护者！！！
+在使用了 notion、语雀等一堆笔记软件后，我发现还是 obsidian 最适合我
