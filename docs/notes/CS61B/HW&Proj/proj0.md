@@ -96,7 +96,7 @@ permalink: /CS61B/7quxyqvp/
 
 
 ## tilt
-本项目的最难的部分
+本项目的最头疼的部分
 ```java
  /** Tilt the board toward SIDE. Return true iff this changes the board.
      *
