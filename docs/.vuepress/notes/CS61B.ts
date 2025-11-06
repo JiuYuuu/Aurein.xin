@@ -14,12 +14,20 @@ export default defineNoteConfig({
       ]
     },
     {
-      text: 'HW 的解决方案与思考',
+      text: 'HW 的解决方案',
       prefix: 'HW&Proj/',
       items: [
         'HW0a.md',
         'HW0b.md',
         'proj0.md'
+      ]
+    },
+    {
+      text: 'lab 和 proj 的解决方案',
+      prefix: 'HW&Proj/',
+      items: [
+        'proj0.md',
+        'lab02.md'
       ]
     }
   ]
