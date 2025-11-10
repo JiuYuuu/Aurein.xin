@@ -97,6 +97,8 @@ permalink: /CS61B/7quxyqvp/
 
 ## tilt
 本项目的最头疼的部分
+第一次写的时候无限 if 嵌套循环，其实文档再稍微往下读一点 tips 里面就会发现一个 `setViewingPerspective` 的方法，它会把棋盘调转 90 度，这样你只需要写一个方向的代码就可以了
+需要注意的点都在文档的 tips 里写了，作者还贴心的提供了几个 表单 来测试你的游戏理解
 ```java
  /** Tilt the board toward SIDE. Return true iff this changes the board.
      *

@@ -10,7 +10,8 @@ export default defineNoteConfig({
       prefix: '', 
       items: [
         'week0.md',
-        'week1.md'
+        'week1.md',
+        'week021.md'
       ]
     },
     {
@@ -19,7 +20,7 @@ export default defineNoteConfig({
       items: [
         'HW0a.md',
         'HW0b.md',
-        'proj0.md'
+      
       ]
     },
     {

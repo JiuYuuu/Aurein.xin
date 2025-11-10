@@ -52,7 +52,7 @@ public static int findMinMax(int[] array) {
 }
 ```
  思路是新建两个变量分别储存最大值与最小值，遍历后更新变量的值
-#### 任务四 冰雹序列
+#### 任务四 ==冰雹序列==
 
 **目标**: 使用**递归**来计算从输入数字 `n` 开始的**冰雹序列 (hailstone sequence)**，并将该序列以一个整数列表（`List<Integer>`）的形式返回。
 
@@ -82,7 +82,7 @@ private static List<Integer> hailstoneHelper(int x, List<Integer> list) {
 }
 ```
 
-采用了递归的思想
+采用了递归的思想，根据正课中的 ``IntList`` 即可理解链表、递归的思想
 
 # ListExpercises
 
