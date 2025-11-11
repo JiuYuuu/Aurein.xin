@@ -248,3 +248,36 @@ for (int num : numbers) {
 - `value` 是可以重复的
 - 最常见的实现类是 `HashMap`
 
+### 基础语法：
+```java
+// 导入
+import java.util.Map; 
+import java.util.HashMap;
+
+//在方法内部创建
+Map<String, Integer> wordCounts = new HashMap<>();
+```
+### 添加与更新
+- 如果 `key`存在，则新增一对键值对
+- 如果 `key` 不存在，则覆盖旧的 `value`
+```java
+Map<String, Integer> scores = new HashMap<>();
+
+// 添加新元素
+scores.put("Alice", 90);   // Map: {"Alice" -> 90}
+scores.put("Bob", 85);    // Map: {"Alice" -> 90, "Bob" -> 85}
+
+// 更新已有的元素
+scores.put("Alice", 95);   // Map: {"Alice" -> 95, "Bob" -> 85} ("Alice"的值被更新了)
+```
+### 获取（get）
+- 你提供一个 key 返回 value
+- 如果 key 不存在 返回 null
+```java
+Map<String, Integer> scores = new HashMap<>();
+scores.put("Alice", 95);
+
+// 获取值
+Integer aliceScore = scores.get("Alice"); // aliceScore 会是 95
+Integer charlieScore = scores.get("Charlie"); // charlieScore 会是 null (因为"Charlie"不在map里)
+```
