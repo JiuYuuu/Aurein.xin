@@ -27,5 +27,5 @@ permalink: /CS61B/lab021/
 
 # Phase 2
 
-三阶段 介绍了，当你遇到大数字循环时，按顺序测试每一个循环的值显然不是明智的方法，接下来可以用 debugger 里内置的 condition 填写
+三阶段 介绍了，当你遇到循环次数是大数字时，按顺序测试每一个循环的值显然不是明智的方法，接下来可以用 debugger 里内置的 condition 填写
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/CS61B/week0/lab02-1.png)

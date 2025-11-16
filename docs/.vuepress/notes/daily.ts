@@ -10,7 +10,8 @@ export default defineNoteConfig({
       prefix: '2025', 
       items: [
         '202509.md',
-        '202510.md'
+        '202510.md',
+        '202511.md',
       ]
     },
     {
