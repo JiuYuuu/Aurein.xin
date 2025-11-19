@@ -164,3 +164,84 @@ L (指向第一节车厢)
  | tail: ---|--->| tail: ---|--->| tail: null | 
  +----------+ +----------+ +----------+
 ```
+精简写法：
+```java
+IntList lst = IntList.of(1, 2, 3);
+// 无法直接修改 lst 中的元素值
+// lst.first = 4; // 这通常会导致编译错误或运行时异常
+```
+但是 `of` 这种写法有部分局限性：
+首先是 ：
+- 不可变性
+-  固定长度，无法使用 `add` `remove` 等语法
+
+## size
+如何获取列表的大小？看下列倒序创建的列表
+```java
+public class IntList {
+    public int first;
+    public IntList rest;  
+
+    public IntList(int f, IntList r) {
+        first = f;
+        rest = r;
+    }
+    public static void main(String[] args) {
+	    IntList L = new IntList(15, null);
+	    L = new IntList(10, L);
+	    L = new IntList(5, L);
+    }
+}
+
+```
+我们将第一个表称为 A，第二个为 B，以此类推
+### 递归
+使用**递归**的方法获取列表大小
+```java
+public int size() {
+	if (this.rest == null) {
+		return 1;
+	}
+	return 1 + this.rest.size()
+}
+
+System.out.println(L.size());  // 3
+```
+拆解一下运行的过程：
+首先 `this.rest` 第一个传入的 `A.rest`，显然它指向的是 `B`，并不等于 null，于是程序向下执行  
+`B.rest.size()` 显然并不知道大小，于是 再次 来到 `if` 行  
+然而`B.rest` 显然是指向 `C` 的   
+于是继续转向 `if` 行，  显然 `C.rest` 是 null 返回 1  
+转到 return 行， 1 + C.size( )  
+于是又回到了头上  
+显然， `C.rest` 是 null，于是返回 1
+最后得出 1 + 2 = 3
+
+### 迭代
+使用**迭代**的方式获得
+```java
+public int iterativeSize() {
+	IntList L = this;
+	
+	int totalSize = 0;
+	while (p != null) {
+		totalSize += 1;
+		p = p.rest
+	}
+	return totalSize;
+}
+```
+
+## get
+
+那么如何获取列表内的元素呢？
+
+```java
+public int get(int i) {
+	if (i == 0) {
+		return this.first;
+	}
+	return this.rest.get(i - 1);
+}
+```
+依旧递归
