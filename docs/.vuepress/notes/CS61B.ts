@@ -11,7 +11,8 @@ export default defineNoteConfig({
       items: [
         'week0.md',
         'week1.md',
-        'week021.md'
+        'week021.md',
+        'week022.md'
       ]
     },
     {

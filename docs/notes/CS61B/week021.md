@@ -1,7 +1,7 @@
 ---
 title: week2 References, Recursion, IntLists
 createTime: 2025/11/07 14:23:22
-permalink: /CS61B/ehzqfkzh/
+permalink: /CS61B/week21/
 ---
 
 ## 前言
