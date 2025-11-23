@@ -4,6 +4,7 @@ import daily from './daily'
 import CS61B from './CS61B'
 import TV from './TV'
 import Games from './Games'
+import CET4 from './CET4'
 
 export default defineNotesConfig({
     dir: 'notes',
@@ -13,6 +14,7 @@ export default defineNotesConfig({
         daily,
         CS61B,
         TV,
-        Games
+        Games,
+        CET4
     ]
 })
