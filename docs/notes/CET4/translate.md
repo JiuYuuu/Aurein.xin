@@ -19,36 +19,34 @@ permalink: /CET4/translate/
 **A growing number  of ➕ 名词复数**
 
 example：
-```text
-• 越来越多的外国读者也感到这部小说里的故事生动感人、趣味盎然。
-A grwoing number of foregin readers also find the story in this noval vivd, touch and interesting.
-```
 
-```text
-随着中国经济的快速增长和全球影响力的增强，越来越多其他国家的人也开始学习汉语。
-With the rapid growth of Chinese economy and the improvement of global influence,a growing number of people from other contries start to learn Chinese.
-```
+• 越来越多的外国读者也感到这部小说里的故事生动感人、趣味盎然。  
+A grwoing number of foregin readers also find the story in this noval vivd, touch and interesting.  
 
-```text
-近年来，中国越来越多的博物馆免费向公众开放。
-In recent years, an increasing number of museums in China are open to the  public free.
-如今，展览形式越来越多样。
-Nowadays,there are more and more forms of exhibition
-```
 
-```text
-如今，在中国坐地铁变得越来越方便
-Nowadays, taking subway in China is becoming increas ingly convenient.
-近年来，越来越多的城市开始建设地铁了
-In recent years, an increasing number of cities have begun to build subways.
-越来越多的人选择地铁作为每天上班或上学的主要交通工具。
-An increasing people choose subways as the main transportation tools to go to work or schoole everyday. 
-```
+随着中国经济的快速增长和全球影响力的增强，越来越多其他国家的人也开始学习汉语。  
+With the rapid growth of Chinese economy and the improvement of global influence,a growing number of people from other contries start to learn Chinese.  
 
-```text
-由于改革开放，越来越多的家长能送孩子到国外学习或参加国际交流项目，让其拓宽视野。
-Thanks to reform and opening up, an increasing number of parents are able to send theri kinds to study abroad or participate in international exchange programs to broaden theri horizons.
-```
+
+近年来，中国越来越多的博物馆免费向公众开放。  
+In recent years, an increasing number of museums in China are open to the  public free.  
+
+如今，展览形式越来越多样。  
+Nowadays,there are more and more forms of exhibition  
+
+
+如今，在中国坐地铁变得越来越方便  
+Nowadays, taking subway in China is becoming increas ingly convenient.  
+
+近年来，越来越多的城市开始建设地铁了  
+In recent years, an increasing number of cities have begun to build subways.  
+
+越来越多的人选择地铁作为每天上班或上学的主要交通工具。  
+An increasing people choose subways as the main transportation tools to go to work or schoole everyday.   
+
+由于改革开放，越来越多的家长能送孩子到国外学习或参加国际交流项目，让其拓宽视野。  
+Thanks to reform and opening up, an increasing number of parents are able to send theri kinds to study abroad or participate in international exchange programs to broaden theri horizons.  
+
 
 ## 无主句  没有主语
 
