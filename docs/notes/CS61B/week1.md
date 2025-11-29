@@ -117,76 +117,12 @@ System.out.println(s2.school); // Tsinghua University
 
 # Lists in Java
 list 在 Java 中是一种接口
-使用语法如下：
-```java
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-
-public class ListExample {
-    public static void main(String[] args) {
-        // 1. 声明和初始化
-        // 推荐的写法：面向接口编程
-        // 这样如果以后想换成LinkedList，只需要改`new`后面的部分即可
-        List<String> userNames = new ArrayList<>();
-
-        // 2. 添加元素 (add)
-        userNames.add("Alice");    // 添加到列表末尾 -> [Alice]
-        userNames.add("Bob");      // -> [Alice, Bob]
-        userNames.add("Charlie");  // -> [Alice, Bob, Charlie]
-        userNames.add(1, "David"); // 在索引为1的位置插入 -> [Alice, David, Bob, Charlie]
-
-        System.out.println("初始化后的列表: " + userNames);
-
-        // 3. 获取元素 (get)
-        String firstUser = userNames.get(0); // 获取索引为0的元素
-        System.out.println("第一个用户是: " + firstUser); // 输出: Alice
-
-        // 4. 修改元素 (set)
-        userNames.set(2, "Robert"); // 将索引为2的元素(Bob)修改为Robert
-        System.out.println("修改后的列表: " + userNames); // -> [Alice, David, Robert, Charlie]
-
-        // 5. 删除元素 (remove)
-        userNames.remove(3); // 删除索引为3的元素(Charlie)
-        // userNames.remove("Alice"); // 也可以直接删除指定的对象
-        System.out.println("删除后的列表: " + userNames); // -> [Alice, David, Robert]
-
-        // 6. 获取列表大小 (size)
-        System.out.println("当前用户数量: " + userNames.size()); // 输出: 3
-
-        // 7. 遍历列表 (Iteration) - 最常用的是 for-each 循环
-        System.out.println("--- 遍历所有用户 ---");
-        for (String name : userNames) {
-            System.out.println(name);
-        }
-    }
-}
-```
 ## 概念
 List 有以下关键词：
 - 集合
 - 有序 可以用 index 精准访问
 - 允许元素重复 可以向 list 中添加重复的元素
-
-## ArrayList vs LinkedList
-最常用的两个实现类就是 `ArrayList`和`LinkedList`，由于实现的原理不同，导致它们在性能上有差异
-
-### ArrayList
-内部是`动态数组`
-优势： 
-- 查询快，通过 index 访问的速度很极快
-缺点：
-- 增删慢：列表的中间插入或删除元素效率低，因为需要移动大量元素
-适用于`读多写少`的场景，当你需要频繁索引某个元素时，而不怎么在中间添加或者删除元素时优选。在不知道用什么时，`ArraryList`为首选
-### LinkedList
-内部是`双向链表`
-优势：
-- 增删快: 在列表的任意位置插入或删除元素效率高，只需要修改相邻节点的指针即可
-缺点：
-- 查询慢: 根据索引访问元素效率低，需要从头或尾开始遍历
-使用场景: 写多读少的场景。当你需要频繁地在列表的开头、结尾或中间进行插入和删除操作时，LinkedList 的性能优势会非常明显
-
-List 泛型
+## List 泛型
 Java 中，`<>` 表示 **泛型（Generic）**，用来指定集合中存储的数据类型
 举例说明：
 ```java
@@ -205,6 +141,71 @@ s.add("world");
 String str = s.get(0); // 不需要强制转换
 ```
 - 限制了数据类型
+## ArrayList vs LinkedList
+最常用的两个实现类就是 `ArrayList`和`LinkedList`，由于实现的原理不同，导致它们在性能上有差异，两者其中都只能存引用类型，不可以放基础类型
+### ArrayList
+内部是`动态数组`
+用法：
+```java
+ArrayList<String> list = new ArrayList<>(); //创建数组
+```
+#### 成员方法
+- 增`boolean add(E e).  
+这个布尔值始终返回 true
+```java
+boolean result = list.add("aaa");
+list.add("bbb")// 一般这么用
+sout(result); // ture
+sout(list);   // [aaa, bbb ]
+```
+- 删`boolean remove(E e)` 
+当删除的元素不存在是返回 false
+`E remove(int index)`
+返回**被删除**的元素
+```java
+boolean result = list.remove("aaa");
+sout(result); // ture
+sout(list);   // [bbb]
+
+
+String str = list.remove(1);
+sout(str);  // bbb 返回被删除值
+sout(list); // [aaa]
+```
+- 改`E set(int index, E e)`
+返回被覆盖的值
+```java
+String result = list.set(1, "ddd");
+sout(result);  // ddd
+sout(list);    // [aaa, ddd]
+```
+- 查`E get(int index)`查询
+`int size()`获取长度
+```java
+String s = list.get(0);
+sout(s); // aaa
+
+
+//遍历
+for (int i = 0;i < list.size(); i++) {     // 输入 list.fori 可快速生成
+	String str = list.get(i);
+	sout(str);
+}
+```
+### 优缺点
+内部是`动态数组`
+优势： 
+- 查询快，通过 index 访问的速度很极快
+缺点：
+- 增删慢：列表的中间插入或删除元素效率低，因为需要移动大量元素
+适用于`读多写少`的场景，当你需要频繁索引某个元素时，而不怎么在中间添加或者删除元素时优选。在不知道用什么时，`ArraryList`为首选
+### LinkedList
+内部是`双向链表`
+优势：
+- 增删快: 在列表的任意位置插入或删除元素效率高，只需要修改相邻节点的指针即可
+缺点：
+- 查询慢: 根据索引访问元素效率低，需要从头或尾开始遍历
+使用场景: 写多读少的场景。当你需要频繁地在列表的开头、结尾或中间进行插入和删除操作时，LinkedList 的性能优势会非常明显
 
 #  Array
 

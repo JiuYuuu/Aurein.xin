@@ -39,7 +39,7 @@ public static void dostuff(Walrus W, int x){
 这个法则是理解一切的关键。它如何应用，完全取决于盒子里装的是什么
 # Primitive type
 ### 是什么？
-**原始类型**是 Java 中内置的 8 种基本类型，如 int、double、boolean等
+**基础类型**是 Java 中内置的 8 种基本类型，如 int、double、boolean等，切记 String 不是基础类型
 ### 储存
 名为变量的 “盒子” 将存储着值本身
 每种不同的数据类型所占用的内存大小是不一样的，
