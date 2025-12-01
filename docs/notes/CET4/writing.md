@@ -1,5 +1,5 @@
 ---
-title: writing
+title: Writing
 createTime: 2025/11/23 17:55:19
 permalink: /CET4/writing/
 ---

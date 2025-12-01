@@ -1,5 +1,5 @@
 ---
-title: CET4-translate
+title: Translate
 createTime: 2025/11/23 16:09:50
 permalink: /CET4/translate/
 ---

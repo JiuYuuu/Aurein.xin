@@ -144,7 +144,7 @@ String str = s.get(0); // 不需要强制转换
 ## ArrayList vs LinkedList
 最常用的两个实现类就是 `ArrayList`和`LinkedList`，由于实现的原理不同，导致它们在性能上有差异，两者其中都只能存引用类型，不可以放基础类型
 ### ArrayList
-内部是`动态数组`
+内部是`动态数组`，大小是动态变化的 
 用法：
 ```java
 ArrayList<String> list = new ArrayList<>(); //创建数组
@@ -193,7 +193,6 @@ for (int i = 0;i < list.size(); i++) {     // 输入 list.fori 可快速生成
 }
 ```
 ### 优缺点
-内部是`动态数组`
 优势： 
 - 查询快，通过 index 访问的速度很极快
 缺点：
@@ -282,3 +281,16 @@ scores.put("Alice", 95);
 Integer aliceScore = scores.get("Alice"); // aliceScore 会是 95
 Integer charlieScore = scores.get("Charlie"); // charlieScore 会是 null (因为"Charlie"不在map里)
 ```
+# 包装类
+简单来说，包装类就是**给基本数据类型“穿上了一层外衣”，让它们变成对象** 
+
+| 基本数据类型 (Primitive) | 包装类 (Wrapper Class) | 备注 |
+| :--- | :--- | :--- |
+| **int** | **Integer** | **⚠️ 名字变长了** |
+| **char** | **Character** | **⚠️ 名字变全了** |
+| byte | Byte | |
+| short | Short | |
+| long | Long | |
+| float | Float | |
+| double | Double | |
+| boolean | Boolean | |
