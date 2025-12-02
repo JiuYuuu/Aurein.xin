@@ -246,3 +246,40 @@ rural  农村的
 urban  城市的
 
 > China's urban and rural areas **are becoming** greener and more beautiful.
+
+## 练习
+>	近年来，中国新能源汽车产业发展迅速。目前，中国新能源汽车年产量已高
+	达近千万辆，占全球市场 份额超过60%，出口量不断创出新高。中国政府通过加
+	大资金投入和政策引导，鼓励新能源汽车企业进行 技术创新，不断提高产品在
+	市场上的竞争力。中国新能源汽车产业的发展不仅有力推动了国内经济发展，也
+	为全球新能源利用和环境保护做出了积极贡献。
+
+In recent years, China's new energy <span style="background:#ffff00; color: black;">vehicle</span> industry has develop rapidly. Currently, **annual production** of China's NEV has reached nearly 10 millions **units**, accounting for over 60% of global market **share**, with export volume continually hitting new highs.
+
+<span style="background:#ffff00; color: black;">By increasing</span> investment and policy guidance Chinese government encourages NEV enterprise to innovate their technologies and constantly improve their competitive powers of their products in the market. 
+
+The development of China's NEV industry has not only **vigorously** promoted domestic economic development, but also made a positive contribution to global new energy utilization and environment protection 
+
+---
+vehicle
+share 份额
+unites 万能量词
+innovate 创新 革新
+vigorously 有力的
+
+---
+
+> 腊八节是中国传统节日，在农历腊月初八举行，标志着春节序幕的开始。这一天，人们普遍喝腊八粥，用糯米、红豆、红枣、花生等多种食材熬制，寓意五谷丰登、家庭和睦。寺庙还会施粥给穷人，体现慈悲为怀。如今，腊八节虽不如春节热闹，但喝腊八粥的习俗仍广为流传。
+
+
+ Laba Festival is a traditional China festival,  held on the eighth day  of December China Lunar calendar, and marks beginning of Spring Festival opening.
+On this day, people commonly drink Laba <span style="background:#ffff00; color: black;">porridge</span>,  which is made of rice, red beans, red 
+dates , peanuts and many other <span style="background:#ffff00; color: black;">ingredients</span>,  symbolizing a harvesting year and <span style="background:#ffff00; color: black;">harmonious</span> family.
+Temples also <span style="background:#ffff00; color: black;">distribute</span> porridge to the poor, symboling kindness and <span style="background:#ffff00; color: black;">compassion</span>.
+Nowadays, although Laba Festival is not as popular/lively as Spring Festival , the custom of drinking Laba porridge <span style="background:#affad1;color: black;">remains widely practiced.</span>
+
+---
+**virtue 美德**
+**ingredients 食材
+**embody 体现**
+as..as  和...一样
