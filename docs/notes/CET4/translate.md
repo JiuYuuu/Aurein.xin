@@ -53,7 +53,7 @@ Thanks to reform and opening up, an increasing number of parents are able to sen
 - **改为被动语态**
 - **添加主语（ 人们  我们   他们 ）
 - 特殊句型（ **There be** ） 
----- 
+----
 
 - 千百年来，创作了许多诗歌和绘画赞美牡丹
 <span style="background:#d3f8b6">Over thousands of years ,</span> a lot of poetry and drawings have been created to praise peony.
@@ -109,7 +109,7 @@ Be know for / be famous for / **be renowned for** + 出名的原因
 Be know as + 名声 （风筝之都）
 
 of  A of B 其中 AB 均为 名词，如果有动词改为 ving 
- 
+
 ---
 - 太湖以其独特的“太湖石”而闻名
 Taihu lake is renowned for its unique "Taihu stones".
@@ -130,7 +130,7 @@ For/Over hundreds of years , locals <span style="background:#d3f8b6">have built 
 
 - 在过去几十年里，政府采取了各种措施防止灾害发生。
 Over the past decades, the government has taken various measure to prevent the <span style="background:#d3f8b6">disasters </span>from happening.
- 
+
 disease 疾病      disaster  灾难（天灾）
 
 - 几千年来，长江一直被用于供水、运输和工业生产。
@@ -272,7 +272,7 @@ vigorously 有力的
 > 腊八节是中国传统节日，在农历腊月初八举行，标志着春节序幕的开始。这一天，人们普遍喝腊八粥，用糯米、红豆、红枣、花生等多种食材熬制，寓意五谷丰登、家庭和睦。寺庙还会施粥给穷人，体现慈悲为怀。如今，腊八节虽不如春节热闹，但喝腊八粥的习俗仍广为流传。
 
 
- Laba Festival is a traditional China festival,  held on the eighth day  of December China Lunar calendar, and marks beginning of Spring Festival opening.
+ Laba Festival is a traditional China festival,  held on the eighth day  of December China Lunar calendar, marking beginning of Spring Festival opening.
 On this day, people commonly drink Laba <span style="background:#ffff00; color: black;">porridge</span>,  which is made of rice, red beans, red 
 dates , peanuts and many other <span style="background:#ffff00; color: black;">ingredients</span>,  symbolizing a harvesting year and <span style="background:#ffff00; color: black;">harmonious</span> family.
 Temples also <span style="background:#ffff00; color: black;">distribute</span> porridge to the poor, symboling kindness and <span style="background:#ffff00; color: black;">compassion</span>.
@@ -283,3 +283,23 @@ Nowadays, although Laba Festival is not as popular/lively as Spring Festival , t
 **ingredients 食材
 **embody 体现**
 as..as  和...一样
+
+> 中国书法是一门独特的艺术形式，它不仅是书写汉字的技法，更是中华传统文化的重要组成部分。书法讲究笔墨的运用和意境的表达，蕴含着深厚的哲学思想。近年来，为了更好地保护和传承这门艺术，许多中小学都开设了书法课。学习书法不仅能培养学生的耐心和审美能力，还能帮助他们更深入地理解中国历史与文化。
+
+Chinese Calligraphy is a unique artistic form, it not only a tecnique of writing Chinese character, but also an important component of traditional Chinese culture.
+
+Calligraphy attach using of ink and brush and expression of <span style="background:#ffff00; color: black;"> atmosphere/artistic conception</span> , containing profound philosophical thoughts.
+
+In recent years, in order to better protect and inherit this art, many primary school and middle school provided calligraohy courses.
+
+Learing calligraphy not only foster students's patience and aesthetics abilities, but also help them understand Chinese history and culture more deeply
+
+
+
+
+
+---
+
+Provide a class 开设课程
+
+foster/cultivate develop 培养
