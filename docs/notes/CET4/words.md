@@ -81,3 +81,19 @@ infredient 配料/成分
 intgrate 合并
 
 integrity 正直/诚实/完整完全
+
+---
+
+relevant 切题的，有关的
+
+revelation 披露暴露揭露
+
+reveal 揭露/揭示 启示
+
+reverse 逆转/扭转
+
+---
+
+capable 能干的，能力强的
+
+capital 首都/资金/极好的
