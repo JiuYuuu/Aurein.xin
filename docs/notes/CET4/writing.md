@@ -69,22 +69,22 @@ Dominant performers
 ## 观点解释与问题解决  
 
 - **第一段：英文模板**
-    
+  
     With the continuous advancement of ____, (填：society, culture, medical service, education, economy), <span style="background:#d3f8b6; color: black;">contemporary</span> ____ (一般填：students, citizens, individuals) face a diverse array of pathways upon ____ (主题词). Some advocate that <span style="background:#d3f8b6;color: black;">pursuing </span>____ (选择 A) yields significant advantages, whereas others contend that opting for ____ (选择 B) represents a superior choice. <span style="background:#d3f8b6;color: black;">From my perspective</span>, I endorse the former/later. The following reasons can account for my preference.
     
 - **第一段：中文翻译**
-    
+  
     在____的加速进程中，当代____在____后面临多种选择。一些人主张追求____具有显著优势，而另一些人则认为选择____是更优的选项。我个人倾向于前者。
     
 > 首句是明确主题，第二句列举有哪些选择，第三局明确我的选择
 
 第二段：
 - **英文模板 (格式优化)**
-    
+  
     First and foremost, there is no doubt that **____**. Based on big data, a majority of successful social elites have admitted that they have spent 2/3 of their time in doing sth. Furthermore, it is obvious that **____**. Where there is/are **____**, there is/are **____**. Last but not least, no one can deny that **____**. Though **____**, **____**.
     
 - **中文翻译 (格式优化)**
-    
+  
     首先，毫无疑问的是 **____**。基于大数据，大部分成功社会精英都承认，他们花了三分之二的时间来做一件事。其次，很明显的是 **____**。只要有 **____**, 就有 **____**。最后但是同样重要的是，没有人可以否认 **____**。尽管 **____**, 但是 **____**。
 
 尾段：
@@ -93,3 +93,27 @@ In a word, the whole society should pay close attention to the problem of ______
 总之，全社会都应该关注_______\_问题，只有这样我们才能有一个光明和有前途的未来。
 
 > 同样可以使用 其他替换尾段
+
+## 信件
+
+基本格式：
+
+​						Dec.6 2025
+
+Dear xxx,
+
+​	内容
+
+ Thank you for your time./Best wishes.
+
+​							Sincerely yours.
+
+​							   Your name
+
+（貌似网页端显示有问题，贴一张图片吧）
+
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/letter.png)
+
+书信常见的词汇
+
+Apologize  Inquiry调查  Apply for   Suggest   Recommend   Congratulate
