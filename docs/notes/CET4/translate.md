@@ -51,7 +51,7 @@ Thanks to reform and opening up, an increasing number of parents are able to sen
 ## 无主句  没有主语
 
 - **改为被动语态**
-- **添加主语**（ 人们  我们   他们 ）
+- **添加主语（ 人们  我们   他们 ）
 - 特殊句型（ **There be** ） 
 ----
 
@@ -248,8 +248,8 @@ urban  城市的
 > China's urban and rural areas **are becoming** greener and more beautiful.
 
 ## 练习
->近年来，中国新能源汽车产业发展迅速。目前，中国新能源汽车年产量已高
 
+>	近年来，中国新能源汽车产业发展迅速。目前，中国新能源汽车年产量已高
 	达近千万辆，占全球市场 份额超过60%，出口量不断创出新高。中国政府通过加
 	大资金投入和政策引导，鼓励新能源汽车企业进行 技术创新，不断提高产品在
 	市场上的竞争力。中国新能源汽车产业的发展不仅有力推动了国内经济发展，也
@@ -264,7 +264,7 @@ The development of China's NEV industry has not only **vigorously** promoted dom
 ---
 vehicle
 share 份额
-units 万能量词
+unites 万能量词
 innovate 创新 革新
 vigorously 有力的
 
@@ -304,44 +304,3 @@ Learing calligraphy not only foster students's patience and aesthetics abilities
 Provide a class 开设课程
 
 foster/cultivate develop 培养
-
----
-
-
-
-> 中国政府高度重视并大力支持大学生创新创业活动。各高校通过开设创业课程、设立
-> 孵化器和提供启动资金等方式，激发学生的创新潜能。这些举措旨在将教育与社会需
-> 求紧密结合，培养学生的实践能力和批判性思维。创新创业不仅为毕业生提供了更多
-> 的就业选择，也经济社会发展注入了新的活力，成为推动中国经济转型升级的重要
-> 驱动力。
-
-The Chinese government highly values and vigorously supports Student Innovation and Entrepreneurship activities.
-
-Universities stimulate students' <span style="background:#ffff00; color: black;">potential</span>  of innovation by providing entrepreneurship courses, setting up incubators and providing start-up funds.
-
-These measures aim to closely integrate education with social needs, and <span style="background:#ffff00; color: black;">cultivate</span>  student's practical abilities and <span style="background:#ffff00; color: black;">critical</span> thinking.
-
-Innovation and Entrepreneurship not only provided graduates with more job-options, but also has injected new vigor to economic and social development, becoming an important motivation for China's economic transformation and <span style="background:#ffff00; color: black;">upgrading</span> .
-
----
-
-Student Innovation and Entrepreneurship 大学生创新创业
-
-重视 value
-
-attach importance to Emphase
-
-大力/有力的 <span style="background:#ffff00; color: black;">vigorously  </span>  活力 vigor
-
-当出现，各级政府、各高校等，直接遍负数可解
-
-governments universities
-
-激发 <span style="background:#ffff00; color: black;">stimulate</span> 
-
-旨在 aim at doing / aim to do
-
-培养 cultivate
-
-注入 inject
-

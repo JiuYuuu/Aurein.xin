@@ -14,5 +14,12 @@ export default defineNoteConfig({
         '202511.md',
       ]
     },
+    {
+      text: '30DAY 推歌挑战',
+      prefix: '2025',
+      items: [
+        'songs.md'
+      ]
+    }
   ]
 })
