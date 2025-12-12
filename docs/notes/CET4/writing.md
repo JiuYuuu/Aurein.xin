@@ -37,7 +37,7 @@ With the <span style="background:#fff88f">continuous advancement</span> of\_\_\_
 
 **Through** (具体方法/努力，如 continuous learning) **and dedication, individuals can eventually achieve** (更高层次的积极结果，如 personal fulfillment, intellectual growth, a competitive edge).
 
-首先，（主题论点一）的深远影响是怎么前调也不过分的，最近由权威机构进行的一项综合调查显示，（发现）这清楚的表明（强调论点）是成功的关键。正如经验丰富的领导者/成功的专业人士经常强调的（观点）
+首先，（主题论点一）的深远影响是怎么强调也不过分的，最近由权威机构进行的一项综合调查显示，（发现）这清楚的表明（强调论点）是成功的关键。正如经验丰富的领导者/成功的专业人士经常强调的（观点）
 
 换句话说，哪里有（条件）哪里就会有（成果）（套用有志者事竟成）
 

@@ -23,10 +23,8 @@ example：
 • 越来越多的外国读者也感到这部小说里的故事生动感人、趣味盎然。  
 A grwoing number of foregin readers also find the story in this noval vivd, touch and interesting.  
 
-
 随着中国经济的快速增长和全球影响力的增强，越来越多其他国家的人也开始学习汉语。  
 With the rapid growth of Chinese economy and the improvement of global influence,a growing number of people from other contries start to learn Chinese.  
-
 
 近年来，中国越来越多的博物馆免费向公众开放。  
 In recent years, an increasing number of museums in China are open to the  public free.  
@@ -264,7 +262,7 @@ The development of China's NEV industry has not only **vigorously** promoted dom
 ---
 vehicle
 share 份额
-unites 万能量词
+units 万能量词
 innovate 创新 革新
 vigorously 有力的
 
@@ -281,7 +279,7 @@ Nowadays, although Laba Festival is not as popular/lively as Spring Festival , t
 
 ---
 **virtue 美德**
-**ingredients 食材
+**ingredients 
 **embody 体现**
 as..as  和...一样
 
