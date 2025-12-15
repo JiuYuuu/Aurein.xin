@@ -97,3 +97,4 @@ reverse 逆转/扭转
 capable 能干的，能力强的
 
 capital 首都/资金/极好的
+
