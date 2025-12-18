@@ -6,10 +6,18 @@ export default defineNoteConfig({
   sidebar: [
     'README.md',
     {
+      text: '买啥游戏了？',
+      prefix: '',
+      items: [
+        'expenditure.md'
+      ]
+    },
+    {
       text: 'Minecraft 相关',
       prefix: 'MC/',
       items: [
-        'mclogs.md'
+        'mclogs.md',
+        'mcserver.md'
       ]
     },
     {
