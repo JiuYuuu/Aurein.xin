@@ -12,6 +12,13 @@ permalink: /Games/guide/
 首先在 QQ 群内获取整合包，下载完成后，打开 PCL
 将下载好的文件直接拖进 PCL 窗口里
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/Games/MC/mc1.png)
+## 不是我安装完我整合包在哪呢？
+安装完我怎么启动不了？怎么启动的还是原版啊？
+你要这么操作
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/Games/MC/pcl1.png)
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/Games/MC/pcl2.png)
+这样切换版本，就可以进去了
+（不会真有猪鼻连这个都不会吧？？？？？）
 ## 如何进入服务器？
 按照下图指示
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/Games/MC/mc2.png)
