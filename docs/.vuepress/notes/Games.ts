@@ -16,8 +16,8 @@ export default defineNoteConfig({
       text: 'Minecraft 相关',
       prefix: 'MC/',
       items: [
-        'mclogs.md',
-        'mcserver.md'
+        'mcserver.md',
+        'logs.md'
       ]
     },
     {
