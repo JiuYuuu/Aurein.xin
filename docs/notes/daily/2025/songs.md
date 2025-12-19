@@ -9,16 +9,28 @@ permalink: /daily/yzhh2gb0/
 很想做这个挑战但是不知道该往哪发了，发空间吧也不太想天天发，遂全塞在这（
 
 ## DAY1
-2025-12-10
-![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/qun.jpg)
+2025-12-10<br>
+<img src="https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/qun.jpg" width="40%" /><br>
 在提到带有颜色的歌名时，我的第一反应就是 《群青》 相当有特色的一首曲子
 
 ## DAY2
 2025-12-11
-名字中带有数字的歌曲，我喜欢的还挺多的，甚至想激推好几首，比如十面埋伏、难过233秒、才二十三和 17
-挑两首最喜欢的吧
-
+名字中带有数字的歌曲，我喜欢的还挺多的，甚至想激推好几首，比如 《十面埋伏》、《难过233秒》、《才二十三》和 《17》
+那着重推 椎名林檎 的《17》吧
+17 岁的人不一定能听懂 《17》，但 17 岁听这首歌一定是一件很幸运的事
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/17.png)
 ## DAY3
 2025-12-12
-《夏天的风》霞む夏の灯
-夏恋慕
+其实这个主题也有很多特别想推的歌，比如《夏天的风》、《また夏を追う》、《夏恋慕》
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/summer.png)
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/summer1.png)
+可惜夜的两首神曲
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/summer2.png)
+这首泠鸢唱的改编版我是真的喜欢
+## DAY4
+2025-12-19
+点名《我的悲伤是水做的》，这是我 chilichill 的入坑曲，当时听了洛天依的曲就去关注这个乐团了，当时真的喜欢  
+现在终于在别人嘴里天天嘟囔的并不喜欢吃鱼折断了腰，哈哈  
+现在真的是一点感觉也没有了  
+抖音真是太毁歌了，和当时的《胭脂》似的，传着传着歌名都给人家改了
+## DAY5
