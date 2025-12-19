@@ -18,7 +18,6 @@ permalink: /Games/guide/
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/Games/MC/pcl1.png)
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/Games/MC/pcl2.png)
 这样切换版本，就可以进去了
-（不会真有猪鼻连这个都不会吧？？？？？）
 ## 如何进入服务器？
 按照下图指示
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/Games/MC/mc2.png)
