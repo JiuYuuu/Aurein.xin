@@ -1,7 +1,7 @@
 ---
 title: songs
 createTime: 2025/12/10 09:21:30
-permalink: /daily/yzhh2gb0/
+permalink: /daily/songs/
 ---
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/song.jpg)
 
@@ -15,16 +15,16 @@ permalink: /daily/yzhh2gb0/
 
 ## DAY2
 2025-12-11
-名字中带有数字的歌曲，我喜欢的还挺多的，甚至想激推好几首，比如 《十面埋伏》、《难过233秒》、《才二十三》和 《17》
-那着重推 椎名林檎 的《17》吧
-17 岁的人不一定能听懂 《17》，但 17 岁听这首歌一定是一件很幸运的事
+名字中带有数字的歌曲，我喜欢的还挺多的，甚至想激推好几首，比如 《十面埋伏》、《难过233秒》、《才二十三》和 《17》  
+那着重推 椎名林檎 的《17》吧  
+17 岁的人不一定能听懂 《17》，但 17 岁听这首歌一定是一件很幸运的事  
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/17.png)
 ## DAY3
 2025-12-12
 其实这个主题也有很多特别想推的歌，比如《夏天的风》、《また夏を追う》、《夏恋慕》
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/summer.png)
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/summer1.png)
-可惜夜的两首神曲
+可惜夜的两首神曲，jpop 真的太好听了，风格独特旋律又好听
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/summer2.png)
 这首泠鸢唱的改编版我是真的喜欢
 ## DAY4
@@ -34,3 +34,8 @@ permalink: /daily/yzhh2gb0/
 现在真的是一点感觉也没有了  
 抖音真是太毁歌了，和当时的《胭脂》似的，传着传着歌名都给人家改了
 ## DAY5
+2025-12-22
+喜剧收场（ 因为声音太小了听不见（
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/xiju.png)
+影色舞，太劲了，太好听了，就该放大声音听
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/dance.png)
