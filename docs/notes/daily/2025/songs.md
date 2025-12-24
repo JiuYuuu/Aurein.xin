@@ -35,7 +35,17 @@ permalink: /daily/songs/
 抖音真是太毁歌了，和当时的《胭脂》似的，传着传着歌名都给人家改了
 ## DAY5
 2025-12-22
-喜剧收场（ 因为声音太小了听不见（
+《喜剧收场》（ 因为声音太小了听不见（
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/xiju.png)
-影色舞，太劲了，太好听了，就该放大声音听
+《影色舞》，太劲了，太好听了，就该放大声音听
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/dance.png)
+
+## DAY6
+2025-12-23
+《あいつら全員同窓会》好听，就是唱不出来，歌词会咬人
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/hui.png)
+
+## DAY7
+2025-12-24
+《彼女は旅に出る》 想不到其他的了
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/travel.png)
