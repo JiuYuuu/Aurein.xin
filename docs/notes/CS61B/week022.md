@@ -63,3 +63,4 @@ public class SLList {
 
 ### addLast and Size()
 
+在根据上文可以得出，
