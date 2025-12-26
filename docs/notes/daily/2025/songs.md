@@ -49,3 +49,8 @@ permalink: /daily/songs/
 2025-12-24
 《彼女は旅に出る》 想不到其他的了
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/travel.png)
+
+## DAY8
+2025-12-25
+这首《1619KHz》 在我第一次听他的时候就被他比较奇怪的曲风，以及充满节奏的高速路况播报所吸引，非常神奇的一首曲子
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/qiyi.png)

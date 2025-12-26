@@ -27,6 +27,13 @@ permalink: /Games/guide/
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/Games/MC/mc4.png)
 随后即可进入游戏
 
+## 迁移指南
+在整合包更新后，仅仅将安装包拖进 PCL 里是远远不够的，你的按键、小地图数据都在本地，接下来是迁移教程
+
+### 迁移按键与小地图
+安装新整合包前，在 pcl 中，点击版本选择，确认自己选择的是上一个版本的游戏内容，点击版本设置，再点击打开文件夹目录
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/Games/MC/mc1.png)
+将文件夹目录下的 **journeymap**、**waypoints**、**options.txt** 复制下来，黏贴到新的整合包游戏目录内，这样就可以同步你探的地图以及按键、已经点亮的石碑等
 ## 进入游戏后该干什么？
 在你进入游戏后，打开背包栏，在屏幕左上角有任务书，务必认真阅读任务书了解游戏内容与相关玩法，并领取新手礼包，任务书中有提及的相关问题将不再回答
 
