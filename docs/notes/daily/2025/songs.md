@@ -54,3 +54,13 @@ permalink: /daily/songs/
 2025-12-25
 这首《1619KHz》 在我第一次听他的时候就被他比较奇怪的曲风，以及充满节奏的高速路况播报所吸引，非常神奇的一首曲子
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/qiyi.png)
+
+## DAY9
+2025-12-26
+听的歌太阴暗了只想的起这一首了
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/bright.png)
+
+## DAY10
+2025-12-29
+阴暗的歌太多了数不过来了，推首今年新发现的宝藏吧（
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/dark.png)
