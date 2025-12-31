@@ -32,7 +32,7 @@ public class IntNode {
 
 ```java
 public class SLList {
-  private static class IntNode;
+  	private static class IntNode;
     public int item;
     public IntNode next;
   
@@ -63,4 +63,16 @@ public class SLList {
 
 ### addLast and Size()
 
-在根据上文可以得出，
+接下来继续写添加列表尾部和返回列表大小
+
+```java
+public void addlast(int x) {
+  IntNode p = first;
+  while (p.next != null) {
+		p = p.next
+  }
+  
+  p.next = new IntNode(x, null)
+}
+```
+
