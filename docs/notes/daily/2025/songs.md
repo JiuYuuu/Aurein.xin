@@ -64,3 +64,7 @@ permalink: /daily/songs/
 2025-12-29
 阴暗的歌太多了数不过来了，推首今年新发现的宝藏吧（
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/dark.png)
+
+## DAY11
+2025-12-31
+蔡依林的《小伤口》
