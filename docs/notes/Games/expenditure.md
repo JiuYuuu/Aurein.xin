@@ -95,12 +95,12 @@ permalink: /Games/expenditure/
 <Card title="宝可梦传说 紫">
   购入时间：2025-12-10  
   💰花费：189
-  ⚖️简评：还没到货
+  ⚖️简评：画面比我想象的烂多了，沙比 GF
 </Card>
 <card title="Nintendo Sports">
   购入时间：2025-12-09
   💰花费：159.9
-  ⚖️简评：还没到货
+  ⚖️简评：等了半月可算到货了，很适合和家里的人玩，操作易上手
 </Card>
 </CardGrid>
 
@@ -111,4 +111,9 @@ permalink: /Games/expenditure/
   购入平台：小黑盒
   ⚖️简评：还没玩
 </Card>
+<Card title="X4基石">
+  购入时间：2026-1-5
+  💰花费：16.80
+  ⚖️简评：还没玩
 </CardGrid>
+

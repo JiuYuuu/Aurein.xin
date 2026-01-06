@@ -75,3 +75,7 @@ permalink: /daily/songs/
 感觉复刻 DAY11 的就可以了（
 
 ## DAY13
+2026-1-6
+我听的最老的歌貌似是德彪西的《月光》
+稍微近一点的就是《真夜中のドア〜stay with me 》了但貌似还没有半个世纪
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/stay.png)
