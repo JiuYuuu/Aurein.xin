@@ -79,3 +79,12 @@ permalink: /daily/songs/
 我听的最老的歌貌似是德彪西的《月光》
 稍微近一点的就是《真夜中のドア〜stay with me 》了但貌似还没有半个世纪
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/stay.png)
+
+## DAY14
+2026-1-7
+没招了有点想不出来，那就在我结婚的时候放怪猎的《英雄之征》吧（
+
+## DAY15
+2026-1-9
+毫无疑问，翻唱 ➕ remix，从 19 年喜欢到现在，春野的整张专辑的曲子质量都特别的高，再加上味素老师的 remix 这首歌毫无疑问的在我心中是永远的 top1
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/rain.png)

@@ -77,3 +77,4 @@ public void addlast(int x) {
 ```
 
 根据对比IntList我们可以得知，在添加最后一项
+
