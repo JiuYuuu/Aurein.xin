@@ -88,3 +88,9 @@ permalink: /daily/songs/
 2026-1-9
 毫无疑问，翻唱 ➕ remix，从 19 年喜欢到现在，春野的整张专辑的曲子质量都特别的高，再加上味素老师的 remix 这首歌毫无疑问的在我心中是永远的 top1
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/rain.png)
+
+## DAY16
+2026-1-10
+依旧是春野的，春野的整张专《filia》都不火  
+还有就是 b站 up 主酥酥翻唱的《那天的雪》
+最后，驼儿这个歌手的大部分歌我都很喜欢，也是不火
