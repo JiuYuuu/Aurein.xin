@@ -94,3 +94,14 @@ permalink: /daily/songs/
 依旧是春野的，春野的整张专《filia》都不火  
 还有就是 b站 up 主酥酥翻唱的《那天的雪》
 最后，驼儿这个歌手的大部分歌我都很喜欢，也是不火
+
+## DAY17
+2026-1-12
+ztmy 的 《ばかじゃないのに》可惜很多 KTV 都没有这首歌。最喜欢 ztmy 的这首了，词神曲神现场也神
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/heart.png)
+
+## DAY18
+2026-1-13
+孙燕姿的《雨天》
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/rainyday.png)
+陈奕迅的《富士山下》
