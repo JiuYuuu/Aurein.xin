@@ -104,4 +104,14 @@ ztmy 的 《ばかじゃないのに》可惜很多 KTV 都没有这首歌。最
 2026-1-13
 孙燕姿的《雨天》
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/rainyday.png)
-陈奕迅的《富士山下》
+陈奕迅的《富士山》
+
+## DAY19 
+2026-1-21
+nowisee的《microser》
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/microser.png)
+
+## DAY20
+2026-1-24
+《疾风骤雨》 warma 的翻唱，贯穿我初中高中的一首歌，很喜欢，每年都会有段时间想听这首歌
+![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/rain.png)
