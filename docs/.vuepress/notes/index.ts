@@ -5,6 +5,9 @@ import CS61B from './CS61B'
 import TV from './TV'
 import Games from './Games'
 import CET4 from './CET4'
+import recipe from './recipe'
+
+
 
 export default defineNotesConfig({
     dir: 'notes',
@@ -15,6 +18,8 @@ export default defineNotesConfig({
         CS61B,
         TV,
         Games,
-        CET4
+        CET4,
+        recipe
+        
     ]
 })

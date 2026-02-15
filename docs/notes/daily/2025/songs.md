@@ -82,7 +82,7 @@ permalink: /daily/songs/
 
 ## DAY14
 2026-1-7
-没招了有点想不出来，那就在我结婚的时候放怪猎的《英雄之征》吧（
+没招了有点想不出来，那就在我结婚的时候放怪猎的《不问天》吧（
 
 ## DAY15
 2026-1-9
@@ -115,3 +115,8 @@ nowisee的《microser》
 2026-1-24
 《疾风骤雨》 warma 的翻唱，贯穿我初中高中的一首歌，很喜欢，每年都会有段时间想听这首歌
 ![](https://cdn.jsdelivr.net/gh/JiuYuuu/Blog-images/daily/songs/rain.png)
+
+## DAY21
+2026-2-3
+没有
+## DAY22
