@@ -21,24 +21,24 @@ export default defineNavbarConfig([
   {
     text: '日常',
     items:[
+       {
+        text: '碎碎念', link: '/notes/daily/README.md'
+      },
       { 
         text: '阅读记录', link: '/notes/read/README.md'
       },
       {
-        text: '生活', link: '/notes/daily/README.md'
+        text: 'Games', link: 'notes/Games/README.md'
       },
       {
         text: '食谱', link: '/notes/recipe/README.md'
-      },
-      {
-        text: 'Games', link: 'notes/Games/README.md'
       }
     ]
   },
   {
     text: '笔记',
     items: [
-      { text: 'CS61B', link: '/notes/CS61B/README.md' },
+      {text: 'CS61B', link: '/notes/CS61B/README.md' },
       {text: 'CET4', link: '/notes/CET4/README.md'}
     ]
   },
