@@ -1,5 +1,7 @@
 ---
 title: 新学期新计划
+tags:
+    - 日报
 createTime: 2026/03/08 22:46:02
 permalink: /article/newplan/
 ---
