@@ -19,7 +19,8 @@ export default defineNoteConfig({
       prefix: '2026',
       items: [
         '01.md',
-        '03.md'
+        '03.md',
+        '04.md'
       ]
     },
     {
