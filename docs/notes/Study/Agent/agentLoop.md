@@ -1,14 +1,10 @@
 ---
-title: Agent 学习1（3月31日报）
+title: Agent 学习1
 createTime: 2026/03/31 16:19:08
 tags:
-    - 日报
     - Agent
 permalink: /article/331report/
 ---
-- 学习了agent
-
-
 # Agent 循环
  > _"One loop & Bash is all you need"_ -- 一个工具 + 一个循环 = 一个智能体。
 ## 问题
