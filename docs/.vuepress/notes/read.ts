@@ -17,7 +17,8 @@ export default defineNoteConfig({
       prefix: 'literature/', 
       items: [
         'weicheng.md',
-        'ditan.md'
+        'ditan.md',
+        'TheLittlePrince'
       ]
     },
   ]
