@@ -1,7 +1,7 @@
 ---
 title: words
 createTime: 2025/12/07 16:00:55
-permalink: /CET4/y7hgd7a4/
+permalink: /Study/CET4/y7hgd7a4/
 ---
 
 # 记单词用的页面
@@ -92,9 +92,55 @@ reveal 揭露/揭示 启示
 
 reverse 逆转/扭转
 
+revise 改变（想法），修改
+
+revive v.苏醒复活
+
+review 复习
+
 ---
 
 capable 能干的，能力强的
 
 capital 首都/资金/极好的
+
+---
+
+propose 提议/打算/提出
+
+purpose 意图/目标
+
+---
+
+engage 从事，参加
+
+emerge 浮现 出现
+
+---
+
+illustrate 说明，阐明
+
+instruct 指示 吩咐 传授教授
+
+instrument 乐器 仪器
+
+---
+
+beneath 在什么之下
+
+breathe 呼吸
+
+---
+
+compassion 同情，怜悯
+
+sympathy 同情 怜悯
+
+---
+
+purpose 意图 目标 
+
+propose 提议 打算 提出
+
+---
 

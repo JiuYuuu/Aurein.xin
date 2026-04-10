@@ -1,8 +1,8 @@
 import { defineNoteConfig } from 'vuepress-theme-plume'
 
 export default defineNoteConfig({
-  dir: 'CET4',
-  link: '/CET4/',
+  dir: 'Study/CET4',
+  link: 'Study/CET4/',
   sidebar: [
     'README.md',
     {

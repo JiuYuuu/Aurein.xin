@@ -1,7 +1,7 @@
 ---
 title: Writing
 createTime: 2025/11/23 17:55:19
-permalink: /CET4/writing/
+permalink: /Study/CET4/writing/
 ---
 # 议论文
 ## 现象解释类模版

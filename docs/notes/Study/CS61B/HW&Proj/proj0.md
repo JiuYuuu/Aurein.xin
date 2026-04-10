@@ -1,7 +1,7 @@
 ---
 title: Project0:2048
 createTime: 2025/11/03 16:21:47
-permalink: /CS61B/7quxyqvp/
+permalink: /Study/CS61B/7quxyqvp/
 ---
 # 前言
 终于完成了第一个项目，感觉主要问题是在语言上，老长一个纯英文文档是一点也不想读，到最后静不下心来读的时候全丢给 ai 翻译了（

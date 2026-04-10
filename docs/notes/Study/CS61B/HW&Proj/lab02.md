@@ -1,7 +1,7 @@
 ---
 title: Lab02
 createTime: 2025/11/05 15:19:22
-permalink: /CS61B/lab021/
+permalink: /Study/CS61B/lab021/
 ---
 > 本 lab 主要教你怎么使用 调试器 ，通过 debugger 获取炸弹的密码，三个阶段层层渐进，手把手教你 debug
 

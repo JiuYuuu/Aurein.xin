@@ -1,7 +1,7 @@
 ---
 title: week1
 createTime: 2025/09/24 18:57:46
-permalink: /CS61B/week1/
+permalink: /Study/CS61B/week1/
 ---
 
 > 终于也是重启 CS61B 的学习之旅了，听的是 CS61B SP25 的课程，做的 project 等均来源于 CS61B SP21。WEEK1 将主要以 JAVA 的基础语法为主，笔记主要用于建立个人知识库，可能写自己薄弱的地方居多。

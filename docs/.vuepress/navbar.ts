@@ -38,8 +38,9 @@ export default defineNavbarConfig([
   {
     text: '笔记',
     items: [
-      {text: 'CS61B', link: '/notes/CS61B/README.md' },
-      {text: 'CET4', link: '/notes/CET4/README.md'}
+      {text: 'CS61B', link: '/notes/Study/CS61B/README.md' },
+      {text: 'CET4', link: '/notes/Study/CET4/README.md'},
+      {text: 'Agent', link: '/notes/Study/'}
     ]
   },
 ])

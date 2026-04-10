@@ -1,7 +1,7 @@
 ---
 title: Translate
 createTime: 2025/11/23 16:09:50
-permalink: /CET4/translate/
+permalink: /Study/CET4/translate/
 ---
 ::: warning
 切换为日间模式获得最好的阅读体验

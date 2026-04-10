@@ -1,8 +1,8 @@
 import { defineNoteConfig } from 'vuepress-theme-plume'
 
 export default defineNoteConfig({
-  dir: 'CS61B',
-  link: '/CS61B/',
+  dir: 'Study/CS61B',
+  link: 'Study/CS61B/',
   sidebar: [
     'README.md',
     {
