@@ -40,7 +40,7 @@ export default defineNavbarConfig([
     items: [
       {text: 'CS61B', link: '/notes/Study/CS61B/README.md' },
       {text: 'CET4', link: '/notes/Study/CET4/README.md'},
-      {text: 'Agent', link: '/notes/Study/'}
+      {text: 'Agent', link: '/notes/Study/Agent/agentLoop.md'}
     ]
   },
 ])

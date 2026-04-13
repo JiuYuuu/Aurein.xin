@@ -3,7 +3,7 @@ title: Agent 学习1
 createTime: 2026/03/31 16:19:08
 tags:
     - Agent
-permalink: /article/331report/
+permalink: /Study/Agent/agentLoop/
 ---
 # Agent 循环
  > _"One loop & Bash is all you need"_ -- 一个工具 + 一个循环 = 一个智能体。

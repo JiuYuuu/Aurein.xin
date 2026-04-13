@@ -6,6 +6,7 @@ import TV from './TV'
 import Games from './Games'
 import CET4 from './CET4'
 import recipe from './recipe'
+import Agent from './Agent'
 
 
 
@@ -19,7 +20,8 @@ export default defineNotesConfig({
         TV,
         Games,
         CET4,
-        recipe
+        recipe,
+        Agent
         
     ]
 })
