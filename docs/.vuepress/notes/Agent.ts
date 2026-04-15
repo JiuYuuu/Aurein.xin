@@ -9,7 +9,8 @@ export default defineNoteConfig({
       text: '笔记',
       prefix: '', 
       items: [
-        'agentLoop.md'
+        'agent1Loop.md',
+        'agent2Tools.md'
       ]
     }
   ]
