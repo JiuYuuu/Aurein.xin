@@ -1,68 +1,10 @@
 ---
-title: Agent 学习1
-createTime: 2026/03/31 16:19:08
+title: agentTools
+createTime: 2026/04/13 23:33:25
 tags:
     - Agent
-permalink: /Study/Agent/agentLoop/
+permalink: /Study/Agent/agentTool/
 ---
-# Agent 循环
- > _"One loop & Bash is all you need"_ -- 一个工具 + 一个循环 = 一个智能体。
-## 问题
-大模型可以帮你推理代码，但是它不能帮你直接跑测试，生成文件，每一次工具的调用实际上都是你手动把结果粘贴回大模型，在这其中你自己粘贴回去的过程就是循环，为了解决来回复制的这个麻烦问题，我们就有了以下流程
-## 解决方案
-
-```
-+--------+      +-------+      +---------+
-|  User  | ---> |  LLM  | ---> |  Tool   |
-| prompt |      |       |      | execute |
-+--------+      +---+---+      +----+----+
-                    ^                |
-                    |   tool_result  |
-                    +----------------+
-                    (loop until stop_reason != "tool_use")
-                    
-                    
-while stop_reason == "tool_use":
-	response = LLM(messages, tools)
-	execute tools
-	append results
-	
-This is the core loop: feed tool results back to the model
-until the model decides to stop. Production agents layer
-policy, hooks, and lifecycle controls on top.
-```
-
-## 实现
-
-完整的函数如下
-```python
-def agent_loop(query):
-  # 用户 prompt 作为第一条消息 
-    messages = [{"role": "user", "content": query}]
-    while True:
-  # 将消息和工具定义一起发给 LLM 
-        response = client.messages.create(
-            model=MODEL, system=SYSTEM, messages=messages,
-            tools=TOOLS, max_tokens=8000,
-        )
-  # 追加助手响应。检查 stop_reason -- 如果模型没有调用工具，则结束
-        messages.append({"role": "assistant", "content": response.content})
-
-        if response.stop_reason != "tool_use":
-            return
-  # 执行每个工具调用，收集结果，作为 user 消息追加，回到第 2 步
-        results = []
-        for block in response.content:
-            if block.type == "tool_use":
-                output = run_bash(block.input["command"])
-                results.append({
-                    "type": "tool_result",
-                    "tool_use_id": block.id,
-                    "content": output,
-                })
-        messages.append({"role": "user", "content": results})
-```
-
 # Tools
 > _加一个工具, 只加一个 handler"_ -- 循环不用动, 新工具注册进 dispatch map 就行
 
