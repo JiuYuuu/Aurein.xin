@@ -12,7 +12,7 @@
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
-import notes from './notes/index'
+
 
 export default defineUserConfig({
   base: '/',
@@ -49,7 +49,9 @@ export default defineUserConfig({
       git: process.env.NODE_ENV === 'production',
     },
     // changelog: false,
-    notes,
+    //notes,
+
+    
     /**
      * 博客
      * @see https://theme-plume.vuejs.press/config/basic/#blog

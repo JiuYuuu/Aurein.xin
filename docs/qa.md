@@ -1,10 +1,9 @@
 ---
 permalink: /qa/
-titel: Q&A
 article: false
 draft: false
 config: null
-title: qa
+title: Q&A
 createTime: 2025/06/12 23:05:30
 ---
 
