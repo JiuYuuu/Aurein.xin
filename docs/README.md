@@ -16,7 +16,6 @@ config:
         - theme: alt
           text: Github →
           link: https://github.com/JiuYuuu
-title: Aurein Blog
 createTime: 2025/10/10 11:26:43
 permalink: /
 ---
