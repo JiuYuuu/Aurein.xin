@@ -27,7 +27,8 @@ export default defineCollection({
       items: [
         '202601',
         '202603',
-        '202604'
+        '202604',
+        '202605'
       ]
     },
     {
