@@ -8,15 +8,23 @@ export default defineCollection({
   sidebar: [
     "README.md",
     {
+      text: '《文心》',
+      prefix: 'literature/wenxin', // 路径前缀（对应 docs/read/literature/wenxin/ 文件夹）
+      items: [
+        //'section1.md',
+      ]
+    },
+    {
       text: '文学',
       prefix: 'literature', // 路径前缀（对应 docs/read/literature/ 文件夹）
-      //collapsed: true,       // 比如文学类你看得慢，可以默认折叠起来
+      //collapsed: true,       // 折叠开关
       items: [
-        'weicheng.md',          // 围城
-        'ditan.md',             // 我与地坛
-        'TheLittlePrince.md'    // 小王子
+        'weicheng.md',          
+        // 'ditan.md',             
+        // 'TheLittlePrince.md'    
       ]
-    }
+    },
+    
   ]
 
 })
