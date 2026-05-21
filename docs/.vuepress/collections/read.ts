@@ -11,7 +11,7 @@ export default defineCollection({
       text: '《文心》',
       prefix: 'literature/wenxin', // 路径前缀（对应 docs/read/literature/wenxin/ 文件夹）
       items: [
-        //'section1.md',
+        'section1.md',
       ]
     },
     {
