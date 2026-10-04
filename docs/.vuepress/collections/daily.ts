@@ -30,6 +30,7 @@ export default defineCollection({
         '202604',
         '202605',
         '202606',
+        '202609',
       ]
     },
     {
